@@ -1,0 +1,26 @@
+.show{
+    display:block;
+}
+.hide{
+    display:none;
+}
+body{
+    background: #1B333C;
+}
+*{
+    margin:0;
+    padding:0;
+}
+img{
+   
+    height:150px;
+    width:150px;
+}
+.card-header{
+    text-align: center;
+    color:white;
+    background-color: black;
+}
+.card-body{
+    background-image:linear-gradient(to right,#CBBD9A,#435554)
+}
