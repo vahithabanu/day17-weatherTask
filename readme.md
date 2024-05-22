@@ -43,5 +43,5 @@ Using async funtion to toggle weather details for each country .
 
 
 ##  Sample Output Screenshot:
-![output screenshot](../assets/sample.png)
+![output screenshot](./assets/sample.png)
 
